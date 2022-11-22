@@ -412,7 +412,8 @@
     "delete_catalog": "Delete Catalog",
     "btn_delete_all_products": "Delete all Products",
     "products": {
-      "title": "Create/Update Product",
+      "title": "Create Product",
+      "titleupdate": "Update Product",
       "select_category": "Select Category",
       "name": "Product Name",
       "description": "Description",
