@@ -358,7 +358,7 @@
       "income_detail": "Detail"
     },
     "shopping_cart": {
-      "shopify_api": "API key",
+      "shopify_api": "Admin API access token",
       "shopify_password": "Shopify password",
       "shopify_url": "Shopify URL",
       "shopify_script": "Shopify script",
