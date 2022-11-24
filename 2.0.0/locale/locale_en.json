@@ -161,7 +161,7 @@
         "shopify": {
           "description": "Get the Shopify indirect integration youtube video",
           "image": "https://s3-eu-west-1.amazonaws.com/cointopay/pics/shopify.png",
-          "link": "https://www.youtube.com/watch?v=eM_dYQKCqlI"
+          "link": "https://cointopay.freshdesk.com/support/solutions/articles/13000078242-shopify-integration-guide"
         },
         "gambio": {
           "description": "Get the gambio plugin at Github.com/Cointopay",
