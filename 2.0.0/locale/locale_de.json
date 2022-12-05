@@ -411,7 +411,8 @@
     "btn_delete_all_products": "Löschen Sie alle Produkte",
     "delete_catalog": "Katalog löschen",
     "products": {
-      "title": "Produkt erstellen / aktualisieren",
+      "title": "Produkt erstellen",
+      "titleupdate": "Product aktualisieren",
       "select_category": "Kategorie wählen",
       "name": "Produktname",
       "description": "Beschreibung",

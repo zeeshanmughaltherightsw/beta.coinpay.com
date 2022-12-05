@@ -411,7 +411,8 @@
     "btn_delete_all_products": "Verwijder alle producten",
     "delete_catalog": "Catalogus verwijderen",
     "products": {
-      "title": "Product maken / bijwerken",
+      "title": "Product maken",
+      "titletitle": "Product bijwerken",
       "select_category": "selecteer categorie",
       "name": "productnaam",
       "description": "Beschrijving",

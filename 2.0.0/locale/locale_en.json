@@ -434,6 +434,7 @@
         "title": "Add/Update category",
         "category_name": "Category Name",
         "select_color": "Select Color",
+        "color": "Color",
         "btn_save": "Save",
         "btn_add": "Add Category"
       },

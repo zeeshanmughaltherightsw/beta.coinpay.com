@@ -46,7 +46,7 @@
     "trade_description": "Opere con su saldo criptográfico en nuestro intercambio interno llamado reflextrader.com",
     "help": "acciones del tablero",
     "update_cart_status": "Actualizar estado del pedido",
-    "btn_update_cart_status": "Estado de actualización",
+    "deletupdate_cart_status": "Estado de actualización",
     "warning_message": "Complete los campos del formulario KYC / AML en su cuenta [HERE]. No puede recibir ni comprar criptografía hasta que nuestro equipo de cumplimiento haya verificado su información. Gracias por su comprensión."
   },
   "send": {
@@ -411,7 +411,8 @@
     "btn_delete_all_products": "Eliminar todos los productos",
     "delete_catalog": "Eliminar catálogo",
     "products": {
-      "title": "Crear / actualizar producto",
+      "title": "Crear producto",
+      "titleupdate": "Actualizar producto",
       "select_category": "selecciona una categoría",
       "name": "nombre del producto",
       "description": "Descripción",

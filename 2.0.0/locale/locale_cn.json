@@ -411,7 +411,8 @@
     "delete_catalog": "删除目录",
     "btn_delete_all_products": "删除所有产品",
     "products": {
-      "title": "创建/更新产品",
+      "title": "創建產品",
+      "titleupdate": "更新產品",
       "select_category": "选择类别",
       "name": "产品名称",
       "description": "描述",

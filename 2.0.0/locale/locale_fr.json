@@ -411,7 +411,8 @@
     "btn_delete_all_products": "Supprimer tous les produits",
     "delete_catalog": "Supprimer le catalogue",
     "products": {
-      "title": "Créer / mettre à jour un produit",
+      "title": "Créer un produit",
+      "titleupdate": "mettre à jour un produit",
       "select_category": "Choisir une catégorie",
       "name": "Nom du produit",
       "description": "La description",

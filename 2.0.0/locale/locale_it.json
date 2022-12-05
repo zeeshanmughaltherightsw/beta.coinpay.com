@@ -411,7 +411,8 @@
     "delete_catalog": "Elimina catalogo",
     "btn_delete_all_products": "Elimina tutti i prodotti",
     "products": {
-      "title": "Crea / Aggiorna prodotto",
+      "title": "Crea prodotto",
+      "titleupdate": "Aggiorna prodotto",
       "select_category": "Seleziona categoria",
       "name": "nome del prodotto",
       "description": "Descrizione",
