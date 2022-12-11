@@ -399,6 +399,7 @@
     "shipping_warning_msg": "No shipping options are set and all countries are selected for delivery",
     "menu": {
       "products": "Products",
+      "categories": "Categories",
       "tickets": "Tickets",
       "receipts": "Receipts",
       "employees": "Employees",
@@ -436,7 +437,8 @@
         "select_color": "Select Color",
         "color": "Color",
         "btn_save": "Save",
-        "btn_add": "Add Category"
+        "btn_add": "Add Category",
+        "no_data": "No categories available"
       },
       "charge": {
         "no_ticket": "No active ticket",
